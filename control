@@ -1,0 +1,9 @@
+Package: com.yourcompany.map3d
+Name: map3d
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: apocolipse
+Author: apocolipse
+Section: Tweaks
